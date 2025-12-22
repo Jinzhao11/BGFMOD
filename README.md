@@ -1,4 +1,3 @@
-[ReadMe.md](https://github.com/user-attachments/files/24282469/ReadMe.md)
 # BGFMOD Appendices
 
 
